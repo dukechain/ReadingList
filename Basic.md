@@ -33,7 +33,7 @@
 ## 批流融合系统
 
 * Flink
-    + Zaharia, M., Das, T., Li, H., Shenker, S., & Stoica, I. (2012). Discretized streams: an efficient and fault-tolerant model for stream processing on large clusters. In HotCloud (pp. 10–10).
+    + Carbone, P., Ewen, S., Haridi, S., Katsifodimos, A., Markl, V., & Tzoumas, K. (2015). Apache Flink: Unified Stream and Batch Processing in a Single Engine. IEEE Data Eng. Bull., 38(4), 28–38.
 
 ## 图处理系统
 
@@ -42,8 +42,5 @@
 
 ## 机器学习系统
 
-* GraphLab
-    + Low, Y., Gonzalez, J., Kyrola, A., Bickson, D., Guestrin, C., & Hellerstein, J. M. (2012). Distributed GraphLab: A Framework for Machine Learning and Data Mining in the Cloud. PVLDB, 5(8), 716–727.
-
-* Parameter Server
-    + Li, M., Andersen, D. G., Park, J. W., Ahmed, A., Josifovski, V., Long, J., … Ahmed, A. (2014). Scaling Distributed Machine Learning with the Parameter Server. In OSDI (pp. 583–598).
+* SystemML
+    + Boehm, M., Surve, A. C., Tatikonda, S., Dusenberry, M. W., Eriksson, D., Evfimievski, A. V., … Sen, P. (2016). SystemML: Declarative Machine Learning on Spark. PVLDB, 9(13), 1425–1436.
