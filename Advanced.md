@@ -21,6 +21,7 @@
 	+ Ekanayake, J., Li, H., Zhang, B., Gunarathne, T., Bae, S., Qiu, J., & Fox, G. (2010). Twister: a runtime for iterative MapReduce. In HPDC (pp. 810–818).
 	+ Bu, Y., Howe, B., & Ernst, M. D. (2010). HaLoop : Efficient Iterative Data Processing on Large Clusters. PVLDB, 3(1), 285–296.
 	+ Dittrich, J., Quiané-Ruiz, J.-A., Jindal, A., Kargin, Y., Setty, V., & Schad, J. (2010). Hadoop++: Making a yellow elephant run like a cheetah (without it even noticing). PVLDB, 3(1), 515–529.
+	+ Chambers, C., Raniwala, A., Perry, F., Adams, S., Henry, R. R., Bradshaw, R., & Weizenbaum, N. (2010). FlumeJava: Easy, Efficient Data-parallel Pipelines. In PLDI (Vol. 45, pp. 363--375).
 
 * Spark
     + Zaharia, M., Chowdhury, M., Das, T., Dave, A., Ma, J., Mccauley, M., … Stoica, I. (2012). Resilient Distributed Datasets : A Fault-Tolerant Abstraction for In-Memory Cluster Computing. In NSDI (pp. 15–28).
@@ -49,6 +50,9 @@
 
 * Spark Streaming
     + Zaharia, M., Das, T., Li, H., Shenker, S., & Stoica, I. (2012). Discretized streams: an efficient and fault-tolerant model for stream processing on large clusters. In HotCloud (pp. 10–10).
+	
+* MillWheel
+    + Chernyak, S., Haberman, J., Akidau, T., Balikov, A., Bekiro, K., Lax, R., … Whittle, S. (2013). MillWheel : Fault-Tolerant Stream Processing at Internet Scale. PVLDB, 6(11), 1033–1044.	
 
 ## 批流融合系统
 
@@ -58,6 +62,11 @@
 * Flink
     + Carbone, P., Ewen, S., Haridi, S., Katsifodimos, A., Markl, V., & Tzoumas, K. (2015). Apache Flink: Unified Stream and Batch Processing in a Single Engine. IEEE Data Eng. Bull., 38(4), 28–38.
 	+ Carbone, P., Ewen, S., Richter, S., & Gyula, F. (2017). State Management in Apache Flink. PVLDB, 10(20), 1718–1729.
+
+* Beam
+    + FlumeJava
+    + MillWheel
+    + Google Dataflow	
 
 ## 图处理系统
 
