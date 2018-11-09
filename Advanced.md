@@ -7,11 +7,15 @@
 
 * ZooKeeper
     + Hunt, P., Konar, M., Junqueira, F. P., & Reed, B. (2010). ZooKeeper : Wait-free coordination for Internet-scale systems. In USENIX Annual Technology Conference (pp. 1–14).
+* Chubby
+    + Burrows, M. (2006). The Chubby lock service for loosely-coupled distributed systems. In OSDI (pp. 335–350).
 
 ## 资源管理系统
 
 * Yarn
     + Vavilapalli, V. K., Murthy, A. C., Douglas, C., Agarwal, S., Konar, M., Evans, R., … Saha, B. (2013). Apache Hadoop yarn: Yet another resource negotiator. In SoCC (p. 5:1-5:16).
+* Mesos
+    + Hindman, B., Konwinski, A., Zaharia, M., Ghodsi, A., Joseph, A. D., Katz, R., … Stoica, I. (2010). Mesos : A Platform for Fine-Grained Resource Sharing in the Data Center. In NSDI.
 
 ## 批处理系统
 
