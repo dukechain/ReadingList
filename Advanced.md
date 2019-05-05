@@ -54,6 +54,7 @@
 
 * Spark Streaming
     + Zaharia, M., Das, T., Li, H., Shenker, S., & Stoica, I. (2012). Discretized streams: an efficient and fault-tolerant model for stream processing on large clusters. In HotCloud (pp. 10–10).
+	+ Zaharia, M., Das, T., Li, H., Hunter, T., Shenker, S., & Stoica, I. (2013). Discretized Streams: Fault-Tolerant Streaming Computation at Scale. In SOSP (pp. 423–438).
 	
 * MillWheel
     + Chernyak, S., Haberman, J., Akidau, T., Balikov, A., Bekiro, K., Lax, R., … Whittle, S. (2013). MillWheel : Fault-Tolerant Stream Processing at Internet Scale. PVLDB, 6(11), 1033–1044.	
