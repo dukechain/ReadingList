@@ -86,16 +86,3 @@
 * GraphX
     + Xin, R. S., Gonzalez, J. E., Franklin, M. J., & Stoica, I. (2013). GraphX: A Resilient Distributed Graph System on Spark. In GRADES (p. 2:1-2:6).	
 	+ Gonzalez, J. E., Xin, R. S., Dave, A., Crankshaw, D., Franklin, M. J., Stoica, I., & Amplab, B. (2014). GraphX : Graph Processing in a Distributed Dataflow Framework. In OSDI (pp. 599–613).
-
-## 机器学习系统
-
-* SystemML
-    + Boehm, M., Surve, A. C., Tatikonda, S., Dusenberry, M. W., Eriksson, D., Evfimievski, A. V., … Sen, P. (2016). SystemML: Declarative Machine Learning on Spark. PVLDB, 9(13), 1425–1436.
-
-* GraphLab
-    + Low, Y., Gonzalez, J., Kyrola, A., Bickson, D., Guestrin, C., & Hellerstein, J. M. (2012). Distributed GraphLab: A Framework for Machine Learning and Data Mining in the Cloud. PVLDB, 5(8), 716–727.
-
-* Parameter Server
-    + Li, M., Andersen, D. G., Park, J. W., Ahmed, A., Josifovski, V., Long, J., … Ahmed, A. (2014). Scaling Distributed Machine Learning with the Parameter Server. In OSDI (pp. 583–598).
-	+ Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., … Zheng, X. (2016). TensorFlow: A System for Large-Scale Machine Learning. In OSDI (pp. 265–284).
-	
